@@ -1,0 +1,3 @@
+To initialize the Project, run this command in the terminal of the base directory
+
+*npx react-native init project
